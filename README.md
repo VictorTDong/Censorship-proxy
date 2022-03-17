@@ -13,4 +13,5 @@ You are required to configure your browser to be running the localhost IP addres
 localhost) and the port that you specified earlier.
   
 Achieved a grade of 37/40
+  
 Note: repo reuploaded to hide sensitive information therefore has no commit history
